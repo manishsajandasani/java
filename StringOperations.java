@@ -1,5 +1,5 @@
 public class StringOperations {
-    public static void main(String[] args) {
+    public static void main(StringBasics[] args) {
         /**
         * Each character in java takes 2 bytes.
         * Any operation we perform on a string object, we get a new object. String is immutable in java.

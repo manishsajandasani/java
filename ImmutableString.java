@@ -1,5 +1,5 @@
 public class ImmutableString {
-    public static void main(String[] args) {
+    public static void main(StringBasics[] args) {
         /**
          * String is immutable in Java
          * Why Strings are Immutable in Java? Answer is String Literal Pooling

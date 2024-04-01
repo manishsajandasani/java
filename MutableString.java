@@ -1,5 +1,5 @@
 public class MutableString {
-    public static void main(String[] args) {
+    public static void main(StringBasics[] args) {
 //        StringBuilder sb = new StringBuilder("Hello");
         StringBuffer sb = new StringBuffer("Hello");
         System.out.println("sb: " + sb);
